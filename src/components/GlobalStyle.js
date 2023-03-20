@@ -17,6 +17,10 @@ code {
     monospace;
 }
 
+ul {display: flex;
+  list-style-type:none;
+  gap:30px;
+}
 /* Conteiner {
         height:100hv,
         display: flex,
